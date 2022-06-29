@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"evalti"},
+{"type":"table","name":"roles","database":"evalti","data":
+[
+{"id_rol":"1","nombre":"Administrador"},
+{"id_rol":"2","nombre":"Gerente"}
+]
+}
+,{"type":"table","name":"usuarios","database":"evalti","data":
+[
+{"id_usuario":"1","nombre":"Jonathan","apellido":"Moreira","telefono":"23562367","direccion":"Zona 10","correo_electronico":"jonaGM234@gmail.com","fecha_nacimiento":"2003-03-18","id_rol":"1","activo":"1","contraseña":"Userfenix21m145"},
+{"id_usuario":"2","nombre":"Jorge","apellido":"Beltran","telefono":"54578423","direccion":"Zona 15","correo_electronico":"jorge123h@gmail.com","fecha_nacimiento":"2000-02-12","id_rol":"1","activo":"1","contraseña":"myadmincoolmaster456k"},
+{"id_usuario":"3","nombre":"Jazmin","apellido":"Gonzales","telefono":"73839421","direccion":"Zona 18","correo_electronico":"jg9826@gmail.com","fecha_nacimiento":"2002-06-23","id_rol":"1","activo":"1","contraseña":"hffcbggfFFSFfd7644"},
+{"id_usuario":"4","nombre":"Mynor","apellido":"Pazos","telefono":"23727654","direccion":"Zona 12","correo_electronico":"mpso23829@gmail.com","fecha_nacimiento":"2001-08-10","id_rol":"2","activo":"1","contraseña":"srghFBVTWEgN9755"}
+]
+}
+]
